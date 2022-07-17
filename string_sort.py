@@ -1,0 +1,5 @@
+text=input('Enter any data : ')
+print('The data you entered is : ',text)
+b=text.split()
+b.sort()
+print('The data after sorting is : ',b)

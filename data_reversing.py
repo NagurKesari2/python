@@ -1,0 +1,5 @@
+text=input('Enter the data you want :')
+print('The data you entered is : ')
+a=text.split()
+a.reverse()
+print('The data you entered after reversing is : ',a)
